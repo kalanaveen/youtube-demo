@@ -20,6 +20,7 @@ const Sidebar = ({ selectedCategory, setSelectedCategory }) => {
             color: 'white',
           }}
           onClick={() => setSelectedCategory(category.name)}
+          key = {category.name}
         >
           <span
             style={{
