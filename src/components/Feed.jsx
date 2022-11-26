@@ -6,7 +6,6 @@ import { Videos, Sidebar } from './';
 const Feed = () => {
   const [selectedCategory, setSelectedCategory] = useState('New');
   const [videos, setVideos] = useState(null);
-  console.log(videos);
 
   useEffect(() => {
     setVideos(null);
