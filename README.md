@@ -1,3 +1,18 @@
+# youtube-demo
+
+Master modern web development by building a responsive React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your YouTube Clone App!
+
+Fetaures Of Web Application
+
+- React functional components and their reusability
+- React file and folder structure
+- You'll achieve mastery using Material UI (version 5)
+- Perfectly placed media queries for satisfactory responsiveness on all devices
+- And most importantly, fetching data from unlimited sources using RapidAPI.
+
+
+![image](https://user-images.githubusercontent.com/34640475/204291711-bb7a74fb-e6b3-4c5a-8c0d-a750c9734235.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
